@@ -1,0 +1,5 @@
+{
+  "default_threshold": 0.702,
+  "sqlite_filename": "face.db",
+  "annoy_filename": "face.dat"
+}
