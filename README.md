@@ -57,7 +57,7 @@ Returns:
 #### Clean Face DB
 Cleans Face DB and balances for indexing.
 
-	localhost:5000/detect   [POST]
+	localhost:5000/clean   [POST]
 
 
 ### Tuning
