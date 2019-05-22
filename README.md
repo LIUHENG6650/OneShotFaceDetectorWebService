@@ -54,6 +54,11 @@ Returns:
 	    },
     "success": true
 	}
+#### Clean Face DB
+Cleans Face DB and balances for indexing.
+
+	localhost:5000/detect   [POST]
+
 
 ### Tuning
 OSFD uses euclidean threshold in order to decide whether input features are same person. You can tune threshold in **configuration.json** or threshold field of **detect** endpoint.
